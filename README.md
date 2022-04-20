@@ -1,7 +1,3 @@
----
-coverY: 0
----
-
 # ZN Framework Nedir?
 
 **ZN Framework,** PHP web programlama dili kullanılarak Türk geliştiriciler tarafından geliştirilmiş açık kaynak kodlu ve felsefesi basitlik üzerine kurulu olan profesyonel bir kod çatısıdır. 2011 yılında geliştirilmeye başlanan bu yapı 30 Mart 2015 tarihinden bu yana geliştiricilere ücretsiz olarak dağıtılmaktadır. Türkiye'de bu alanda daha önce üst seviyede bir çalışma olmadığı için Türkiye'nin ilk profesyonel kod çatısı olarak kabul edilir.\
